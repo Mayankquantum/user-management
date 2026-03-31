@@ -1,3 +1,4 @@
+// Version 2 - Added proper comments and test output
 <?php
 ini_set('display_errors', 1);
 error_reporting(E_ALL);
