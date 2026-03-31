@@ -1,3 +1,4 @@
+// Final Version - Task 2 Completed (Database + PHP Sessions)
 // Version 2 - Added proper comments and test output
 <?php
 ini_set('display_errors', 1);
